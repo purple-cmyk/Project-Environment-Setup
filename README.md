@@ -135,3 +135,6 @@ Simply delete the folder:
 On **Windows**:
 
 `rmdir /s /q env`
+
+
+### Setup for GPUs incoming
